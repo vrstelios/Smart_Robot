@@ -1,15 +1,12 @@
 # Smart Robot
 
-# Εισαγωγή
-To <b>Robot</b> αναπτύχθηκε από εμένα ως προπτυχιακών φοιτητών του τμήματος Πληροφορικής ΑΠΘ.
+# Introduction
+The <b>Robot</b> developed by me as an undergraduate student of the Department of Computer Science AUTH.
 
-# Περιγραφή Robot
-Το Robot υλοποιήθηκε στην βιβλιοθήκες του SimBad με σκοπό να καθοδηγείται μέσα από ένα σύνολο εμποδίων προς το στόχο του, 
-ο οποίος θα ορίζεται από την προβολή ενός φωτιστικού σώματος (λάμπα) στο έδαφος .Το Robot  έχει ως δυνατότητες να προσπερνάει 
-εμπόδια να ακόλουθη την διαδρομή τον γραμμών και να ακόλουθη το φως δηλαδή να φτάνει τον στόχο του και όλα αυτά έχουν υλοποιηθώ 
-μέσα ιεραρχικά που σημάνει οτι το Robot μπορεί να κρήνη μόνο του τι απόφαση πρέπει να πάρει οποιαδήποτε χρονική στιγμή για να 
-φτάσει στον στόχο του.  
+# Description Robot
+The Robot was implemented in the SimBad libraries in order to be guided through a set of obstacles towards its goal, 
+which will be defined by the projection of a luminaire (lamp) on the ground. The Robot has the potential to overtake obstacles to follow the path of the lines and to follow the light i.e. to reach its target and all these have been implemented with hierarchical  which means that the Robot can decide for itself what decision to make at any given time to reach the target.
 
-# Προβολή συμπεριφοράς robot
+# View robot behaviour 
 https://user-images.githubusercontent.com/56134371/175781371-9facf0fd-002c-497b-b9f5-c139c364bc1b.mp4
 
